@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<body>
+
+<script>
+var question = prompt("Enter in a word");
+console.log(question + "???");
+
+
+
+</script>
+
+</body>
+
+</html>
